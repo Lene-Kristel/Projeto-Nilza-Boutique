@@ -1,0 +1,85 @@
+:root{
+    --primary: #FFD6EE;
+    --secondary-color: #500030;
+    --rose-pink: #E07A8F;
+    --gray: #CCCCCC;
+}
+
+.menu{
+    background: var(--gray) !important;
+}
+
+img{
+    width: 12.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand, .nav-link{
+    color: var(--secondary-color) !important;
+}
+
+.nav_link:visited{
+    color: var(--primary) !important;
+}
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.carousel, .categories, .best-products{
+    margin-bottom: 40px;
+}
+
+.categories__h2, .best-products_h2{
+    margin-bottom: 30px;
+}
+
+.facilities__div{
+    width: 325px;
+}
+
+.btn{
+    background-color: var(--rose-pink) !important;
+    border-color: var(--rose-pink) !important;
+    color: var(--primary) !important;
+}
+
+.facilities_sec{
+    padding: 40px 0;
+    margin-bottom: 2.5rem;
+}
+
+.facilities__topo{
+    color: #F87F46;
+    font-weight: 700;
+}
+
+.icone, .facilities__titulo{
+    color: var(--secondary-color);
+    font-weight: 700;
+    padding-top: 10%;
+}
+
+
+
+footer, .facilities_sec{
+    background-color: var(--gray);
+}
+
+.carousel_img{
+    width: auto;
+   
+}
+
+@media screen and (min-width: 1440px){
+
+    .formulario{
+        display: flex;
+        justify-content: center;
+        margin: 0 30%;
+        margin-bottom: 2.5rem;
+    }
+    
+}
+
