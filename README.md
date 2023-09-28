@@ -5,5 +5,5 @@ In this projetc HTML5, CSS and Bootstrap v5.3 were used in the index. This proje
 
 <strong style = "color:gold"> THIS SITE IS A SIMPLE TRIBUTE TO MY DIED MOTHER, WHO WAS CALLED NILZA AND WAS A DRESSMAKER. </strong>
 
-<img src="nilzaboutique.jpeg" width="800" height="400">
+<img src="Nilza Boutique.jpg" width="800" height="400">
 
